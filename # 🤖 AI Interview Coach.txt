@@ -1,0 +1,59 @@
+# 🤖 AI Interview Coach
+
+An AI-powered **Interview Preparation Assistant** that helps students and job seekers practice interviews, get feedback, and improve their confidence.  
+
+---
+
+## 🚀 Problem Statement
+Millions of students and freshers fail interviews due to:
+- Lack of practice
+- Weak communication skills
+- Low confidence
+- No access to affordable feedback
+
+---
+
+## 💡 Solution
+The **AI Interview Coach** allows users to:
+- Select **HR** or **Technical** interview practice
+- Answer common questions (by typing or speaking)
+- Receive **instant feedback** and **suggested improvements**
+- Practice as many times as needed
+
+---
+
+## 🛠️ Tech Stack
+- Python
+- OpenAI GPT (future upgrade)
+- Whisper API (future upgrade for voice input)
+- Replit (prototype demo)
+- GitHub (code hosting)
+
+---
+
+## 📸 Demo Flow
+1. Choose interview type (HR/Technical)  
+2. AI asks a question  
+3. User types an answer  
+4. AI provides feedback + better answer suggestion  
+
+---
+
+## 🔗 Links
+- 🎥 **Live Demo (Replit):** [Click Here](https://replit.com/@yourusername/ai-interview-coach)  
+- 💻 **GitHub Repository:** [Click Here](https://github.com/yourusername/ai-interview-coach)  
+
+---
+
+## 📌 Future Scope
+- Use **OpenAI GPT-4** for advanced feedback
+- Add **voice interview practice** using Whisper API
+- Create a **dashboard** to track improvement over time
+- Multi-language support for Tier-2/Tier-3 students
+
+---
+
+## 👤 Author
+- **Your Name**  
+- Buildathon 2025 Participant  
+- Passionate about AI, Career Development, and Innovation
